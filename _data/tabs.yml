@@ -9,22 +9,17 @@
   name: Home
   icon: "fas fa-home"
 -
-  name: Categories
-  icon: "fas fa-stream"
+  name: "About"
+  icon: "fas fa-info"
   path: tabs
-  url: categories
+  url: about
 -
-  name: "Tags"
-  icon: "fas fa-tags"
+  name: "Resources"
+  icon: "fas fa-folder-open"
   path: tabs
-  url: tags
+  url: resources
 -
   name: "Archives"
   path: tabs
   url: archives
   icon: "fas fa-archive"
--
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
