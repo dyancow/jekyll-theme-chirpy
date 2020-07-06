@@ -13,7 +13,8 @@ title: D Niu                         # the main title
 tagline: Security, code, and other insights.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A personal blog for in-depth dives into security and development projects, with a focus on mobile apps and authentication. Resources for students and learning about cyber security in general. 
+  A personal blog for in-depth dives into security and development projects, 
+  with a focus on mobile apps and authentication. Tech resources for college students and resources for learning about cyber security, especially offensive security. 
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'

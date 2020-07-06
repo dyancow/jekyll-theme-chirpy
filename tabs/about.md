@@ -25,7 +25,7 @@ title: About
 * Mobile app reverse engineering
 
 ![lightbulb emoji](../../assets/img/lightbulb.png) Currently Inspired by: 
-> [covariant.ai](https://covariant.ai) </br> [How I Built This with Guy Raz (podcast): Jo Malone](https://www.npr.org/2020/05/15/856800432/jo-malone-london-jo-malone) </br> [The New Jim Crow](https://newjimcrow.com/)
+> [covariant.ai](https://covariant.ai) <br> [How I Built This with Guy Raz (podcast): Jo Malone](https://www.npr.org/2020/05/15/856800432/jo-malone-london-jo-malone) <br> [The New Jim Crow](https://newjimcrow.com/)
 
 ![books emoji](../../assets/img/book.png) Currently Subscribed: 
 
