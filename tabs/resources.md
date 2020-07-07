@@ -6,25 +6,6 @@ title: Resources
 # MIT License
 ---
 
-### Opportunities for students
-
-* Rewriting the code [fellowship](https://rewritingthecode.org/fellowship): professional network and community for college-aged women! One of the most helpful resources of my undergraduate career
-* [Grace Hopper Celebration](https://ghc.anitab.org/): one of the best networking conferences for undergraduate women in tech. It's expensive, but I went on a scholarship:
-
-    * Computing Research Association GHC Research Scholars [Program](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/)
-    * Companies like Netapp, Facebook, and others have been known to do scholarships in the past
-    * antib.org, the foundation that runs GHC, offers complimentary registration to women of color and also specific scholarships for undergraduate women and women in boot camps
-
-* [Dev degree](https://devdegree.ca/) (for Canadian students: imagine getting paid to get a degree with guaranteed internships with Shopify)
-* Summer [opportunities](https://www.wellesley.edu/careereducation/resources/technology-internships-first-years-and-sophomores) specifically for first and second years.
-
-    * [Pinterest Engage Scholars](https://www.pinterestcareers.com/university), not current up on the website
-    * [Palantir Path](https://www.palantir.com/students/path/)
-
-* Really good comprehensive [list of opportunities](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) for *high school students*
-
----
-
 ### Learn Security
 
 #### Basics
@@ -52,3 +33,22 @@ title: Resources
 * *Hardware:*
     * [Netgarage](https://io.netgarage.org/) 
     * [XBox One Security Talk](https://www.youtube.com/watch?v=quLa6kzzra0)
+
+---
+
+### Opportunities for students
+
+* Rewriting the code [fellowship](https://rewritingthecode.org/fellowship): professional network and community for college-aged women! One of the most helpful resources of my undergraduate career
+* [Grace Hopper Celebration](https://ghc.anitab.org/): one of the best networking conferences for undergraduate women in tech. It's expensive, but I went on a scholarship:
+
+    * Computing Research Association GHC Research Scholars [Program](https://cra.org/cra-wp/scholarships-and-awards/scholarships/ghc-research-scholars/)
+    * Companies like Netapp, Facebook, and others have been known to do scholarships in the past
+    * antib.org, the foundation that runs GHC, offers complimentary registration to women of color and also specific scholarships for undergraduate women and women in boot camps
+
+* [Dev degree](https://devdegree.ca/) (for Canadian students: imagine getting paid to get a degree with guaranteed internships with Shopify)
+* Summer [opportunities](https://www.wellesley.edu/careereducation/resources/technology-internships-first-years-and-sophomores) specifically for first and second years.
+
+    * [Pinterest Engage Scholars](https://www.pinterestcareers.com/university), not current up on the website
+    * [Palantir Path](https://www.palantir.com/students/path/)
+
+* Really good comprehensive [list of opportunities](https://code.likeagirl.io/a-high-school-students-guide-to-cs-programs-internships-487586031e07) for *high school students*
